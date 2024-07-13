@@ -60,6 +60,8 @@ Welcome to the Coffee Shop website! This site provides information about our cof
 - Contact form for submitting queries or feedback.
 
 ## 📷 Screenshots
+![Screenshot (359)](https://github.com/user-attachments/assets/cc43d73d-c05e-42a0-8af7-12adfe955bf5)
+![Screenshot (361)](https://github.com/user-attachments/assets/30f1eeec-40ff-4a7a-8f9b-288b29a5d38c)
 
 
 ## 🚀 Installation Guide
